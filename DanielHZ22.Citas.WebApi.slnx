@@ -1,2 +1,8 @@
 <Solution>
+  <Folder Name="/API/">
+    <Project Path="DanielHZ22.Citas.Api/DanielHZ22.Citas.Api.csproj" Id="cbc68c34-e936-4389-8c30-77b88a3d5c4d" />
+  </Folder>
+  <Folder Name="/Core/" />
+  <Folder Name="/Infrastructure/" />
+  <Folder Name="/Tests/" />
 </Solution>

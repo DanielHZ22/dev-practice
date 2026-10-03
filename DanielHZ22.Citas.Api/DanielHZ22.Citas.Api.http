@@ -1,0 +1,6 @@
+@DanielHZ22.Citas.Api_HostAddress = http://localhost:5039
+
+GET {{DanielHZ22.Citas.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
